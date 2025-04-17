@@ -1,2 +1,2 @@
 console.log("hii");
-console.log("hello prince");
+console.log("hello world");
